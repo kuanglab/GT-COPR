@@ -3,7 +3,7 @@
 ## Summary of the package
 We provide MATLAB codes for GT-CORP algorithm in the following files:
 
-- **GTCOPR.m:** main function of the GTCOPR algorithm
+- **GTCOPR.m:** main function of the GT-COPR algorithm
 - **tensor_R.m**: convert the pairwise relations to tensors
 - **buil_AUX.m:** initialize the auxiliary variables
 - **update_AUX.m**: update the auxiliary variables
