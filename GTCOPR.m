@@ -1,5 +1,5 @@
 function A = GTCOPR(W,R,opts)
-
+% Please refer to the toy.m file for the input details
 % initialize the CPD form
 net_num = length(W);
 nvec = zeros(1,net_num);
