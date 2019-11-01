@@ -9,7 +9,7 @@ We provide MATLAB codes for GT-CORP algorithm in the following files:
 - **update_AUX.m**: update the auxiliary variables
 - **update_collap.m**: compute the derivatives of the first objective which involves tensor collapsing
 - **update_graphReg.m**: compute the derivatives of the second objective which involves graph regularization
-- **toy.m**: a drive file to test GTCOPR on a random dataset
+- **toy.m**: a drive file to demo GT-COPR on a random dataset
 
 Note: the tensor framework of GT-COPR implementation is based on [MATLAB Tensor Toolbox](http://www.sandia.gov/~tgkolda/TensorToolbox/), please install/download it first.
 
