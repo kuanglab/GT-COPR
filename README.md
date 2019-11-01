@@ -1,4 +1,4 @@
-# GT-COPR
+# GT-COPR: Graph-Regularized Tensor Completion from Observed Pairwise Relations
 
 ## Summary of the package
 We provide MATLAB codes for GT-CORP algorithm in the following files:
